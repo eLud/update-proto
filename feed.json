@@ -1,0 +1,23 @@
+[
+	{
+		"releaseNotes": "This is release notes from Beam 0.1",
+		"versionName": "Version 0.1",
+		"publicationDate": 627583500,
+		"downloadURL": "https://www.beamapp.co/downloads/someZipv0.1.zip",
+		"version": "0.1"
+	},
+	{
+		"releaseNotes": "This is release notes from Beam 0.1.1",
+		"versionName": "Version 0.1.1",
+		"publicationDate": 627583500,
+		"downloadURL": "https://www.beamapp.co/downloads/someZipv0.1.1.zip",
+		"version": "0.1.1"
+	},
+	{
+		"releaseNotes": "This is release notes from Beam 1.1",
+		"versionName": "Version 1.1",
+		"publicationDate": 641738100,
+		"downloadURL": "https://github.com/eLud/update-proto/raw/main/BeamUpdaterProto_v1.1.zip",
+		"version": "1.1"
+	}
+]
