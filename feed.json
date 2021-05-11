@@ -1,23 +1,34 @@
 [
 	{
-		"releaseNotes": "This is release notes from Beam 0.1",
+		"buildNumber": 1,
 		"versionName": "Version 0.1",
+		"releaseNotes": "This is release notes from Beam 0.1",
 		"publicationDate": 627583500,
 		"downloadURL": "https://www.beamapp.co/downloads/someZipv0.1.zip",
 		"version": "0.1"
 	},
 	{
-		"releaseNotes": "This is release notes from Beam 0.1.1",
+		"buildNumber": 2,
 		"versionName": "Version 0.1.1",
+		"releaseNotes": "This is release notes from Beam 0.1.1",
 		"publicationDate": 627583500,
 		"downloadURL": "https://www.beamapp.co/downloads/someZipv0.1.1.zip",
 		"version": "0.1.1"
 	},
 	{
-		"releaseNotes": "This is release notes from Beam 1.1",
+		"buildNumber": 5,
 		"versionName": "Version 1.1",
+		"releaseNotes": "This is release notes from Beam 1.1",
 		"publicationDate": 641738100,
 		"downloadURL": "https://github.com/eLud/update-proto/raw/main/BeamUpdaterProto_v1.1.zip",
 		"version": "1.1"
+	},
+	{
+		"buildNumber": 50,
+		"versionName": "Beam 2.0: Collaborate on Cards",
+		"releaseNotes": "• Pharetra, malesuada tellus amet orci iaculis et. In nunc, augue in orci netus maecenas. In eget arcu a augue. Dui pulvinar pellentesque.\n\n• Tempor sit erat amet parturient pretium nunc.\n\n• Urna arcu libero, neque, placerat risus porta commodo, nulla. Diam ac aliquam velit ipsum.\n\n• Et nulla sed justo facilisi. Lobortis ligula a nisl.\n\n• Nunc, morbi praesent non suscipit. In massa purus quis molestie. Nam lectus massa mattis fringilla quam. Vel tortor quis a sit tellus lorem amet placerat tellus. Semper dui massa phasellus nisl.\n\n• At amet nibh nibh nibh elementum. In sagittis consectetur ut massa pulvinar.",
+		"publicationDate": 642433952.236648,
+		"downloadURL": "https://github.com/eLud/update-proto/raw/main/BeamUpdaterProto_v1.1.zip",
+		"version": "2.0"
 	}
 ]
